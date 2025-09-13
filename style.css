@@ -105,7 +105,7 @@ h1:hover {
 }
 
 
-@media (max-width: 375px) {
+/* @media (max-width: 375px) {
   .card-container{
     max-width: 327px;
   }
@@ -116,4 +116,4 @@ h1:hover {
 .title{
   font-size: 20px;
 }
-}
+} */
